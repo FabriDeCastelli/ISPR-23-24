@@ -163,8 +163,4 @@ cython_debug/
 *.png
 
 # .pb files
-**/model*/
-
-
-
-
+**/model*/**
